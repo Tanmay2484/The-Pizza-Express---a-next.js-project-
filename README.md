@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Screenshot 2024-03-03 210108](https://github.com/Tanmay2484/The-Pizza-Express---a-next.js-project-/assets/103728522/0c5a9447-06ee-4d47-9d30-3387142c8818)
+
 
 ## Getting Started
 
